@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **SpringBoot, REST APIs**
 
-- 💬 Ask me about **Java,OOP**
+- 💬 Ask me about **Java, OOP**
 
 - 📫 How to reach me **chaitanyaselokar18@gmail.com**
 
